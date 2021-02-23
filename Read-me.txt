@@ -1,0 +1,8 @@
+	Como rodar o código
+
+1. Baixar o codigo do arduino ide
+2. https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+seguir os passos para instalar o esp32 no arduino ide
+3. Baixe o apk do bluetooth spp tools pro para conectar o esp32 com o celular.
+(existe outros aplicativos mais o spp tools pro eu achei primeiro e acabei usando pode usar o "serial bluetooth terminal" 
+que tem as mesmas funções, mas esse está presente na play store diferente do spp pro
